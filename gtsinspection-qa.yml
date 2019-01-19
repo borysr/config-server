@@ -1,2 +1,3 @@
-sharedmessage: 'gtsinspection qa'
-sharedversion: 1.0
+GtsInspection:
+    UserDataCacheDurationDays: '3'
+    VehicleCacheDurationDays: '4'
